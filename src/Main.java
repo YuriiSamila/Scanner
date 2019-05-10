@@ -9,5 +9,6 @@ public class Main {
         String last_name = sc.next();
         System.out.println(name + "\n" + last_name);
         System.out.println("Finish");
+        System.out.println("Finish2");
     }
 }
